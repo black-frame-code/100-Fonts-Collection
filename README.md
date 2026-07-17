@@ -1,4 +1,4 @@
-````markdown
+
 # 🎨 100 Fonts Collection
 
 > A modern showcase of **100 popular fonts** for web designers and developers, built with pure HTML and CSS.
@@ -219,4 +219,4 @@ Developed by **Ali Janati**
 If you like this project, please leave a ⭐ on GitHub.
 
 Thank you for your support ❤️
-````
+
